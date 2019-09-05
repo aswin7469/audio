@@ -322,6 +322,7 @@ endif
 LOCAL_SHARED_LIBRARIES := \
 	liblog \
 	libcutils \
+    libprocessgroup \
 	libhardware \
 	libtinyalsa \
 	libtinycompress \
